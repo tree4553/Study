@@ -5,7 +5,14 @@ public class kakao_2017_1_1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String[] temp = solution(6, new int[] { 46, 33, 33, 22, 31, 50 }, new int[] { 27, 56, 19, 14, 14, 10 });
+		String[] temp = solution(5, new int[] { 9, 20, 28, 18, 11 }, new int[] { 30, 1, 21, 17, 28 });
+		for (int i = 0; i < 5; i++) {
+			System.out.println(temp[i]);
+		}
+
+		System.out.println();
+
+		temp = solution(6, new int[] { 46, 33, 33, 22, 31, 50 }, new int[] { 27, 56, 19, 14, 14, 10 });
 		for (int i = 0; i < 6; i++) {
 			System.out.println(temp[i]);
 		}
