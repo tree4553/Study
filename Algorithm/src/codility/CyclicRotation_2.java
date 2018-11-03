@@ -2,7 +2,7 @@ package codility;
 
 import java.util.LinkedList;
 
-public class CyclicRotation {
+public class CyclicRotation_2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
