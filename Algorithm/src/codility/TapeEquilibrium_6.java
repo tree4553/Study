@@ -1,7 +1,9 @@
 package codility;
 
 public class TapeEquilibrium_6 {
-
+// 초기화 시키기 위해 한번 실행시키고 for문의 범위를 조절하지 않았어 틀렸었다.
+// 배열의 길이가 1일때, 2일때 값이 제대로 나오지 않아서 틀렸었다.
+// for문의 경계값이 달라서 틀렸었다.
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] A = { -10,-20,-30,-40,100 };
