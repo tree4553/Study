@@ -11,7 +11,6 @@ public class baekjoon_1934 {
 		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-		StringBuilder sb = new StringBuilder();
 		int t = Integer.parseInt(br.readLine());
 		int a = 0, b = 0;
 		for (int i = 0; i < t; i++) {
