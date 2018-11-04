@@ -1,7 +1,7 @@
 package codility;
 
 public class PassingCars_11_timeout {
-
+// O(N^2)로 성능 부족
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] A = { 0, 1, 0, 1, 0 };
