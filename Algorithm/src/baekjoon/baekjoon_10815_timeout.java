@@ -1,3 +1,4 @@
+package baekjoon;
 //시간초과로 실패
 import java.util.*;
 import java.io.*;

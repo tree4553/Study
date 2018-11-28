@@ -1,3 +1,4 @@
+package baekjoon;
 import java.io.*;
 public class baekjoon_2750 {
 

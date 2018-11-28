@@ -1,3 +1,4 @@
+package baekjoon;
 import java.util.Scanner;
 public class baekjoon_1003 {
 	static Scanner scan = new Scanner(System.in);

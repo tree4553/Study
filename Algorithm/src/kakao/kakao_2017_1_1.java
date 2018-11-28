@@ -1,3 +1,4 @@
+package kakao;
 //2017년 카카오 코딩테스트 1차 1번 문제
 
 public class kakao_2017_1_1 {
