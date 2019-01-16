@@ -1,10 +1,10 @@
 package SW_ExpertAcademy;
 
+import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.BufferedWriter;
 import java.io.OutputStreamWriter;
-import java.io.IOException;
 import java.util.StringTokenizer;
 
 public class SW_2050 {
@@ -19,5 +19,4 @@ public class SW_2050 {
 			System.out.println(st.nextToken());
 		}
 	}
-
 }
